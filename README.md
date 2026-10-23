@@ -6,7 +6,7 @@
 
 <p align="center">
   A focus timer for the terminal, drawn with seven-segment digits.<br>
-  Built with Coloride. The logo above was created with Coloride.
+  Design created with Coloride.
 </p>
 
 <p align="center">
