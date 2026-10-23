@@ -1,0 +1,10 @@
+{
+  "name": "clockfocus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Terminal pomodoro with seven-segment digits",
+  "scripts": {
+    "start": "node pomodoro.js",
+    "preview": "node pomodoro.js --preview"
+  }
+}
