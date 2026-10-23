@@ -2,6 +2,7 @@
   "name": "clockfocus",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Terminal pomodoro with seven-segment digits",
   "scripts": {
     "start": "node pomodoro.js",

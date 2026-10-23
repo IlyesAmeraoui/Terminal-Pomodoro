@@ -69,3 +69,7 @@ A short bell plays when a phase ends. On macOS it uses the system Glass sound.
 
 - Node.js
 - A real terminal (`npm start`)
+
+## License
+
+[MIT](LICENSE) © 2026 Ilyes Ameraoui
